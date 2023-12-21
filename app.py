@@ -4,8 +4,8 @@ import os
 # Example usage
 
 # File input paths
-input_file1 = r"F:\python project\myProject\UpworkProj\VideoEnginering\VideoEditing\videoTrans\video-editing-py-script\Scripts\fxFade\InputVid\weldingshorts.mp4"
-input_file2 = r"F:\python project\myProject\UpworkProj\VideoEnginering\VideoEditing\videoTrans\video-editing-py-script\Scripts\fxFade\InputVid\knifeMaster.mp4"
+input_file1 = r"fxFade\InputVid\weldingshorts.mp4"
+input_file2 = r"fxFade\InputVid\knifeMaster.mp4"
 
 # Time inputs for cutting each video
 time1 = "00:00:10"  # Cut for video 1
